@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM java:8-jdk
 
 MAINTAINER Decheng Zhang <killercentury@gmail.com>
 
